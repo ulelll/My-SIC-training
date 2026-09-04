@@ -28,13 +28,11 @@ This repository contains my work for the **Python Fundamentals** module of the S
 - Variables & Data Types
 - Operators & Expressions
 - Conditional Statements (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
 - Functions
-- Lists, Tuples, Dictionaries & Sets
 - Basic String Manipulation
 - Input/Output Handling
-
-*(Feel free to edit this list to match exactly what your notebook covers!)*
+<!-- - Loops (`for`, `while`)  -->
+<!-- - Lists, Tuples, Dictionaries & Sets -->
 
 ---
 
@@ -68,6 +66,3 @@ This assignment was completed as part of the **Samsung Innovation Campus (SIC)**
 
 ---
 
-<p align="center">
-Made with 💻 and ☕ by <b>Aurell Falisha Mecca</b> Enggan Ngoding A 
-</p>
